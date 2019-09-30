@@ -1,0 +1,10 @@
+F:\VSproj\继电器\bin\Debug\继电器.exe.config
+F:\VSproj\继电器\bin\Debug\继电器.exe
+F:\VSproj\继电器\bin\Debug\继电器.pdb
+F:\VSproj\继电器\obj\Debug\继电器.csprojAssemblyReference.cache
+F:\VSproj\继电器\obj\Debug\继电器.Form1.resources
+F:\VSproj\继电器\obj\Debug\继电器.Properties.Resources.resources
+F:\VSproj\继电器\obj\Debug\继电器.csproj.GenerateResource.cache
+F:\VSproj\继电器\obj\Debug\继电器.csproj.CoreCompileInputs.cache
+F:\VSproj\继电器\obj\Debug\继电器.exe
+F:\VSproj\继电器\obj\Debug\继电器.pdb
